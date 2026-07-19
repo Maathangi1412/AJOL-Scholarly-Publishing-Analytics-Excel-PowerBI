@@ -1,5 +1,3 @@
-Below is a professional **README.md** suitable for your GitHub repository. It is ATS-friendly, recruiter-friendly, and follows the format commonly used in data analytics portfolios.
-
 ````markdown
 # 📊 AJOL Journal Analytics Dashboard
 
